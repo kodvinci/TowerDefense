@@ -22,7 +22,7 @@ public class GameMap {
     
     private void updateUnits(double elapsedTime) {
         for (Unit unit : myUnits) {
-            unit.update(elapsedTime);
+            //unit.update(elapsedTime);
         }
     }
     
